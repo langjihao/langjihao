@@ -1,2 +1,2 @@
 ### Hi there 👋
-![green](green.jpg)
+![green](green.png)
