@@ -3,7 +3,7 @@ I'm  Jihao Lang (郎吉豪). I'm currently pursuing a graduate degree in AI in T
 
 ## Skill
 ### Language
- [![My Skills](https://skillicons.dev/icons?i=ts,py,R,matlab,cpp,md)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=ts,py,r,matlab,cpp,md)](https://skillicons.dev)
 ### Framework & Service
  [![My Skills](https://skillicons.dev/icons?i=vue,react,electron,nodejs,flask,nextjs,mongodb,postgres,fastapi,pytorch,sqlite,selenium,sklearn,docker)](https://skillicons.dev)
 ### Tools
